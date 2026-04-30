@@ -130,7 +130,7 @@ This project focuses on analyzing a fintech transaction dataset to uncover insig
 
 ## 👤 Author
 
-**Your Name**
+**VISHNU PRATAP SINGH**
 MBA – Business Analytics
 
 ---
